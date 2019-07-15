@@ -1,0 +1,9 @@
+<Context>
+	<Resource name="jdbc/MysqlDB"
+			  auth="Container"
+			  type="javax.sql.DataSource"
+			  driverClassName="com.mysql.jdbc.Driver"
+			  url="jdbc:mysql://scoop99.asuscomm.com:3306/qwerty"
+			  username="qwerty"
+			  password="1475"/>
+</Context>
